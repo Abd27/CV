@@ -6,9 +6,10 @@ I am a driven and hardworking individual who is passionate about tech, software 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Bazaar**            | A virtual marketplace PWA app to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroku, Netlify, CSS |
-| **Makersbnb** | Basic clone of airbnb | Ruby, Sinatra, Rspec, CSS |
-|**Bowling** | Bowling scorecard | JavaScript, Jasmine |
+| [**Bazaar**](https://github.com/Abd27/bazaar-server)            | A virtual marketplace PWA app to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroku, Netlify, CSS |
+| [**Makersbnb**](https://github.com/Abd27/Makers-BnB) | Basic clone of airbnb | Ruby, Sinatra, Rspec, CSS |
+|[**Bowling**](https://github.com/Abd27/bowling-challenge-ruby) | Bowling scorecard | JavaScript, Jasmine |
+| [**Bank Statement**](https://github.com/Abd27/BankTechTest-Java) | Produces a bank statement for transactions | Java, Junit |
 
 ## Education
 
