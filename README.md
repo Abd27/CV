@@ -14,7 +14,7 @@ I am a driven and hardworking individual who is passionate about tech, software 
 
 ## Education
 
-#### Makers Academy (Mar-21 to june-21)
+#### Makers Academy (Mar-21 to June-21)
 A 16 week intensive software engineering bootcamp focusing on:
 -	Agile methodologies
 -	Object-oriented design
@@ -42,13 +42,12 @@ Credera is a tech consultancy focused on providing digital transformation work f
 -	installation, configuration and administration of VMware virtual machines.
 -	worked on various Vmware products like NSXT, ESXI and VCD.
 -	wrote ansible roles to automate, provision and configure infrastructure for various pipelines. Built custom ansible solutions based on customer requirement utilising best practices as per ansible documentation. 
--	In depth knowledge of Bash Shell Scripting and CRON job automation. 
+-	In depth knowledge of Bash Shell Scripting. 
 -	built managed db products based on MongoDb and MariaDB via pipelines as per system design and architecture requirements. 
 -	responsible for automation of MongoDb installation, configuration and administration using various tools such as OpsManager, Mongosh.
--	deployment of cloud services using docker and terraform.
+-	created custom terraform modules to be consumed in various pipelines.
 -	built and maintained docker images to be consumed as build agents for various pipelines.
 -	creation and implementing strategies for infrastructure deployment staging to various environments such as dev, qa and prod.
--	created custom terraform modules to be consumed in various pipelines.
 -	designed and built a custom solution to auto tag resources in GCP for cost monitoring purposes which since has been used in various projects across different teams. 
 -	developed a strategy using AWS nuke to automate the deletion of AWS resources on a periodic basis to save costs. 
 -	designed, built and improved automation scripts in Bash and Python extensively. 
