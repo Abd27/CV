@@ -6,6 +6,7 @@ I am a driven and hardworking individual who is passionate about tech, software 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Client Project (Air Transport Industry)**].                | Worked on a client project helping them design and deliver pipelines | VMware, Ansible, Terraform, Linux, Bash, MongoDb, MariaDB, Mongosh, Python, AzureDevOps, Docker |
 | [**Bazaar**](https://github.com/Abd27/bazaar-server)            | A virtual marketplace PWA app to simulate a middle eastern bazaar | Mongodb, Express.js, React.js, Node.js, Cloudinary, Heroku, Netlify, CSS |
 | [**Makersbnb**](https://github.com/Abd27/Makers-BnB) | Basic clone of airbnb | Ruby, Sinatra, Rspec, CSS |
 |[**Bowling**](https://github.com/Abd27/bowling-challenge-ruby) | Bowling scorecard | JavaScript, Jasmine |
@@ -32,6 +33,31 @@ Physics: completed 1st year with **2:1**
 A Levels: Physics (**A\***), Mathematics (**A\***), Further Maths (**A**)
 
 ## Work Experience
+
+**Credera (01/2022 to Present)**
+_DevOps Engineer_
+
+Credera is a tech consultancy focused on providing digital transformation work for its clients. I am currently working as a DevOps Engineer on a major aeronautical client project helping them build a private cloud. In addition, I am currently doing extensive work with my team to build and deploy managed services. Some of my achievements and responsibilities are listed below: 
+
+-	installation, configuration and administration of VMware virtual machines.
+-	worked on various Vmware products like NSXT, ESXI and VCD.
+-	wrote ansible roles to automate, provision and configure infrastructure for various pipelines. Built custom ansible solutions based on customer requirement utilising best practices as per ansible documentation. 
+-	In depth knowledge of Bash Shell Scripting and CRON job automation. 
+-	built managed db products based on MongoDb and MariaDB via pipelines as per system design and architecture requirements. 
+-	responsible for automation of MongoDb installation, configuration and administration using various tools such as OpsManager, Mongosh.
+-	deployment of cloud services using docker and terraform.
+-	built and maintained docker images to be consumed as build agents for various pipelines.
+-	creation and implementing strategies for infrastructure deployment staging to various environments such as dev, qa and prod.
+-	created custom terraform modules to be consumed in various pipelines.
+-	designed and built a custom solution to auto tag resources in GCP for cost monitoring purposes which since has been used in various projects across different teams. 
+-	developed a strategy using AWS nuke to automate the deletion of AWS resources on a periodic basis to save costs. 
+-	designed, built and improved automation scripts in Bash and Python extensively. 
+-	gained the ability to read and follow the documentations for any given subject matter thoroughly to create a basic solution to expand on. 
+-	wrote verbose and clean documentation on various projects to help current and future team members.
+-	collected requirements from solution architects and transformed them into optimal solutions. 
+-	worked with agile methodologies and promoted them within my team. 
+
+
 
 **NexVisTech** (06/2019 to 01/2021)  
 _Business Development Manager_
